@@ -50,6 +50,7 @@
     "translate": true
   },
   "dependencies": {
-    "classnames": "^2.5.1"
+    "classnames": "^2.5.1",
+    "woocommerce-mailchimp-newsletter": "file:"
   }
 }
