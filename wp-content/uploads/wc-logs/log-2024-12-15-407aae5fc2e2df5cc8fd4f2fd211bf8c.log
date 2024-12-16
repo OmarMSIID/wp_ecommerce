@@ -1,0 +1,2 @@
+2024-12-15T00:13:08+00:00 INFO Payment gateway enabled: "Stripe"
+2024-12-15T01:13:44+00:00 INFO Payment gateway enabled: "Direct bank transfer"
