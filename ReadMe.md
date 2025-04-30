@@ -101,7 +101,6 @@ Voici quelques captures d'écran illustrant les fonctionnalités du projet :
 ## 🤝 Contributeurs
 - Chammakh Ayoub  
 - Msiid Omar
-- Fatima Zahrae BEN HAMMADI
 
 ---
 
